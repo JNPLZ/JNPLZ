@@ -23,6 +23,6 @@ I write articles about software development and architecture in big projects and
 
 You can reach me via
 - eMail: jennifer.pelz at gmx.de 
-- Twitter: @Jennifer_Pelz
+- Twitter: [@Jennifer_Pelz](https://twitter.com/Jennifer_Pelz)
 - LinkedIn [Profile](https://www.linkedin.com/in/jennifer-pelz-1701bb5b/)
 - Xing [Profile](https://www.xing.com/profile/Jennifer_Pelz/cv)
