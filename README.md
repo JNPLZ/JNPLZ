@@ -1,10 +1,10 @@
 # 👋 Hi, there! 
 
-I’m Jennifer Pelz, senior software developer based in Karlsruhe, Germany. I have a masters degree in computer science and media and have been working in eCommerce for several years. I work in a self organizing company that does not have a formal hierarchy at all.
+I’m Jennifer Pelz, senior software developer based in Karlsruhe, Germany. I have a masters degree in computer science and media and have been working in eCommerce for several years. I work in a hierarchy-free self organizing company.
 
 ## 🗣 Speaker
 
-I’m a conference speaker and like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organizing organizations.
+I’m a conference speaker and like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organization.
 
 - 19./20.01.2022 Agile-Tage 2022: "Chancen & Grenzen der Selbstorganisation" [Link](https://www.ittage.informatik-aktuell.de/programm/365-2022/chancen-grenzen-der-selbstorganisation.html)
 - 09.12.2021 IT-Tage 2021: "Microfrontends – Konzept, Umsetzung und Anwendung in großen IT-Projekten" [Link](https://www.ittage.informatik-aktuell.de/programm/2021/microfrontends-konzept-umsetzung-und-anwendung-in-grossen-it-projekten.html)
