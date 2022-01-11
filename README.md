@@ -15,7 +15,7 @@ I’m a conference speaker and like to talk about software development, micro fr
 I write articles about software development and architecture in big projects and the impact of organizational structures.
 
 - 01.2022 t2informatik: Microfrontends (German) _(publishing)_
-- 12.2021 Host Europe: Microfrontends (German) _(publishing)_
+- 01.2022 Host Europe: Microfrontends (German) [Link](https://www.hosteurope.de/blog/microfrontends-konzept-umsetzung-und-anwendung-in-groesseren-it-projekten/)
 - 04.2021 Informatik Aktuell: "Die agile Keimzelle: Agilität anordnen oder einschleichen lassen?"
 (German) [Link](https://www.informatik-aktuell.de/management-und-recht/projektmanagement/die-agile-keimzelle-agilitaet-nordnen-oder-einschleichen-lassen.html)
 
