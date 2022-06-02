@@ -17,7 +17,7 @@ I’m a conference speaker and like to talk about software development, micro fr
 
 - 19./20.01.2022 Agile-Tage 2022: "Chancen & Grenzen der Selbstorganisation" [Link](https://www.ittage.informatik-aktuell.de/programm/365-2022/chancen-grenzen-der-selbstorganisation.html)
 - 09.12.2021 IT-Tage 2021: "Microfrontends – Konzept, Umsetzung und Anwendung in großen IT-Projekten" [Link](https://www.ittage.informatik-aktuell.de/programm/2021/microfrontends-konzept-umsetzung-und-anwendung-in-grossen-it-projekten.html)
-- 11.03.2021 Transform To Agile: "Agile Transformation – einschleichen lassen oder anordnen?" [Link](https://www.transform-to-agile.de/agenda/vortraege/articles/mi12-agile-transformation-einschleichen-lassen-oder-anordnen.html)
+- 11.03.2021 Transform To Agile: "Agile Transformation – einschleichen lassen oder anordnen?"
 
 ## ✍️ Writer
 
