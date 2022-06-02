@@ -4,7 +4,10 @@ I’m Jennifer Pelz, senior software developer based in Karlsruhe, Germany. I ha
 
 ## 👾 Programmer
 
-With a similar game mode as the wonderful 'Wordle' or 'Globle', I made my own geo guessing game '[Capitle](https://thmbln.github.io/capitle/)', in which you can challenge your geography knowledge. I'm constantly working on new features and improvements. [Repository](https://github.com/THMBLN/capitle)
+['Capitle' - geo guessing game](https://thmbln.github.io/capitle/)
+
+With a similar game mode as the wonderful 'Wordle' or 'Globle', I made my own geo guessing game '[Capitle](https://thmbln.github.io/capitle/)', in which you can challenge your geography knowledge. I'm constantly working on new features and improvements.
+[Repository](https://github.com/THMBLN/capitle)
 
 ## 🗣 Speaker
 
