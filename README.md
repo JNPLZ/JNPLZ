@@ -1,12 +1,12 @@
 # 👋 Hi, there! 
 
-I’m Jennifer Pelz, senior software developer based in Karlsruhe, Germany. I have a masters degree in computer science and media and have been working in eCommerce for several years. I work in a hierarchy-free self organizing company.
+My name is Jennifer Pelz, I'm a senior software developer based in Karlsruhe, Germany. I love the frontend, Domain Driven Design, Self-contained Systems, the cloud, and software architecture in general. I work in a hierarchy-free company and have a great interest in self organization in work environemnts.
 
-## 👾 Programmer
+## 👾 Software Developer
 
 ['Capitle' - geo guessing game](https://thmbln.github.io/capitle/)
 
-With a similar game mode as the wonderful 'Wordle' or 'Globle', I made my own geo guessing game '[Capitle](https://thmbln.github.io/capitle/)', in which you can challenge your geography knowledge. I'm constantly working on new features and improvements.
+With a similar game mode as the wonderful 'Wordle' or 'Globle', I made my own geo guessing game '[Capitle](https://thmbln.github.io/capitle/)', in which you can challenge your geography knowledge. It's written in Typescript with React.
 [Repository](https://github.com/THMBLN/capitle)
 
 ## 🗣 Speaker
@@ -32,6 +32,6 @@ I write articles about software development and architecture in big projects and
 
 You can reach me via
 - eMail: jennifer.pelz at gmx.de 
-- Twitter: [@Jennifer_Pelz](https://twitter.com/Jennifer_Pelz)
+- Mastodon: [@jpe@mastodontech.de](https://mastodontech.de/@jpe)
 - LinkedIn [Profile](https://www.linkedin.com/in/jennifer-pelz-1701bb5b/)
 - Xing [Profile](https://www.xing.com/profile/Jennifer_Pelz/cv)
