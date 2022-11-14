@@ -1,6 +1,8 @@
 # 👋 Hi, there! 
 
-My name is Jennifer Pelz, I'm a senior software developer based in Karlsruhe, Germany. I love the frontend, Domain Driven Design, Self-contained Systems, the cloud, and software architecture in general. I work in a hierarchy-free company and have a great interest in self organization in work environemnts.
+My name is Jennifer Pelz, I'm a senior software developer based in Karlsruhe, Germany. I love the frontend, the cloud, clean code and software architecture in general. I work in self organized and hierarchy-free company.
+
+Topics I'm interested in: Micro Frontends, Domain Driven Design, Self-Contained Systems, architectural patterns, self organization in work environments, and many more.
 
 ## 👾 Software Developer
 
