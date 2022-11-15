@@ -35,5 +35,6 @@ I write articles about software development and architecture in big projects and
 You can reach me via
 - eMail: jennifer.pelz at gmx.de 
 - Mastodon: [@jpe@mastodontech.de](https://mastodontech.de/@jpe)
+- Speakerinnen.org [Profile](https://speakerinnen.org/de/profiles/jennifer-pelz)
 - LinkedIn [Profile](https://www.linkedin.com/in/jennifer-pelz-1701bb5b/)
 - Xing [Profile](https://www.xing.com/profile/Jennifer_Pelz/cv)
