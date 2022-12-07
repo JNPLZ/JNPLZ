@@ -1,19 +1,14 @@
 # 👋 Hi, there! 
 
-My name is Jennifer Pelz, I'm a senior software developer based in Karlsruhe, Germany. I love the frontend, the cloud, clean code and software architecture in general. I work in self organized and hierarchy-free company.
+My name is Jennifer Pelz, I'm a senior software developer and software architect based in Karlsruhe, Germany. I love the frontend, the cloud, clean code and software architecture in general. I work in a self organized and hierarchy-free company.
+
+I'm a Certified Professional for Software Architecture (Advanced Level), certified by the International Software Architecture Qualification Board ([iSAQB®](https://www.isaqb.org/)).
 
 Topics I'm interested in: Micro Frontends, Domain Driven Design, Self-Contained Systems, architectural patterns, self organization in work environments, and many more.
 
-## 👾 Software Developer
-
-['Capitle' - geo guessing game](https://thmbln.github.io/capitle/)
-
-With a similar game mode as the wonderful 'Wordle' or 'Globle', I made a geo guessing game '[Capitle](https://thmbln.github.io/capitle/)', in which you can challenge your geography knowledge. It's written in Typescript with React and deployed as a Github Page.
-[Repository](https://github.com/THMBLN/capitle)
-
 ## 🗣 Speaker
 
-I’m a conference speaker and like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organization.
+As a conference speaker, I like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organization. Have a look at my speaker profile on [Speakerinnen.org](https://speakerinnen.org/de/profiles/jennifer-pelz) (German).
 
 - 14.12.2022 IT-Tage 2022 "Microfrontends angewandt – Architektur und Techniken im Fallbeispiel" [Link](https://www.ittage.informatik-aktuell.de/programm/2022/microfrontends-angewandt-architektur-und-techniken-im-fallbeispiel.html)
 
@@ -29,6 +24,13 @@ I write articles about software development and architecture in big projects and
 - Host Europe: Microfrontends - Konzept, Umsetzung und Anwendung in größeren IT-Projekten (German) [Link](https://www.hosteurope.de/blog/microfrontends-konzept-umsetzung-und-anwendung-in-groesseren-it-projekten/)
 - Informatik Aktuell: "Die agile Keimzelle: Agilität anordnen oder einschleichen lassen?"
 (German) [Link](https://www.informatik-aktuell.de/management-und-recht/projektmanagement/die-agile-keimzelle-agilitaet-nordnen-oder-einschleichen-lassen.html)
+
+## 👾 Software Developer
+
+['Capitle' - geo guessing game](https://thmbln.github.io/capitle/)
+
+With a similar game mode as the wonderful 'Wordle' or 'Globle', I made a geo guessing game '[Capitle](https://thmbln.github.io/capitle/)', in which you can challenge your geography knowledge. It's written in Typescript with React and deployed as a Github Page.
+[Repository](https://github.com/THMBLN/capitle)
 
 # 📫 Contact
 
