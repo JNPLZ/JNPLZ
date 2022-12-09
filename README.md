@@ -27,10 +27,10 @@ I write articles about software development and architecture in big projects and
 
 ## 👾 Software Developer
 
-['Capitle' - geo guessing game](https://thmbln.github.io/capitle/)
+['Capitle' - geo guessing game](https://www.capitle.de)
 
-With a similar game mode as the wonderful 'Wordle' or 'Globle', I made a geo guessing game '[Capitle](https://thmbln.github.io/capitle/)', in which you can challenge your geography knowledge. It's written in Typescript with React and deployed as a Github Page.
-[Repository](https://github.com/THMBLN/capitle)
+With a similar game mode as the wonderful 'Wordle' or 'Globle', I made a geo guessing game '[Capitle](https://www.capitle.de)', in which you can challenge your geography knowledge. It's written in Typescript with React and deployed as a GitHub Page.
+[Repository](https://github.com/JNPLZ/capitle)
 
 # 📫 Contact
 
