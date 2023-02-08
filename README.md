@@ -10,7 +10,7 @@ Topics I'm interested in: Micro Frontends, Domain Driven Design, Self-Contained 
 
 As a conference speaker, I like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organization. Have a look at my speaker profile on [Speakerinnen.org](https://speakerinnen.org/de/profiles/jennifer-pelz) (German).
 
-- 14.12.2022 IT-Tage 2022 "Microfrontends angewandt – Architektur und Techniken im Fallbeispiel" [Link](https://www.ittage.informatik-aktuell.de/programm/2022/microfrontends-angewandt-architektur-und-techniken-im-fallbeispiel.html)
+- IT-Tage 2022 "Microfrontends angewandt – Architektur und Techniken im Fallbeispiel" [Link](https://www.ittage.informatik-aktuell.de/programm/2022/microfrontends-angewandt-architektur-und-techniken-im-fallbeispiel.html)
 
 - Agile-Tage 2022: "Chancen & Grenzen der Selbstorganisation" [Link](https://www.ittage.informatik-aktuell.de/programm/365-2022/chancen-grenzen-der-selbstorganisation.html)
 - IT-Tage 2021: "Microfrontends – Konzept, Umsetzung und Anwendung in großen IT-Projekten" [Link](https://www.ittage.informatik-aktuell.de/programm/2021/microfrontends-konzept-umsetzung-und-anwendung-in-grossen-it-projekten.html)
@@ -19,7 +19,8 @@ As a conference speaker, I like to talk about software development, micro fronte
 ## ✍️ Writer
 
 I write articles about software development and architecture in big projects and the impact of organizational structures.
-
+- t2informatik: Chancen & Grenzen der Selbstorganisation _In Progress_
+- t2informatik: Micro Frontends - Concept and Implementation (English) [Link](https://t2informatik.de/en/blog/microfrontends-concept-and-implementation/)
 - t2informatik: Microfrontends - Konzept und Implementierung (German) [Link](https://t2informatik.de/blog/softwareentwicklung/microfrontends-konzept-und-implementierung/)
 - Host Europe: Microfrontends - Konzept, Umsetzung und Anwendung in größeren IT-Projekten (German) [Link](https://www.hosteurope.de/blog/microfrontends-konzept-umsetzung-und-anwendung-in-groesseren-it-projekten/)
 - Informatik Aktuell: "Die agile Keimzelle: Agilität anordnen oder einschleichen lassen?"
