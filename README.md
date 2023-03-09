@@ -1,4 +1,4 @@
-# 👋 Hi, there! 
+# Hi, there! 
 
 My name is Jennifer Pelz, I'm a senior software developer and software architect based in Karlsruhe, Germany. I love the frontend, the cloud, clean code and software architecture in general. I work in a self organized and hierarchy-free company.
 
@@ -9,6 +9,8 @@ Topics I'm interested in: Micro Frontends, Domain Driven Design, Self-Contained 
 ## 🗣 Speaker
 
 As a conference speaker, I like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organization. Have a look at my speaker profile on [Speakerinnen.org](https://speakerinnen.org/de/profiles/jennifer-pelz) (German).
+
+- 23.03.2023: Dev & Donuts "Microfrontends angewandt" with Live Coding [Link (Eventbrite)](https://www.eventbrite.de/e/dev-donuts-die-rewrite-falle-und-angewandte-microfrontends-tickets-476358259377)
 
 - IT-Tage 2022 "Microfrontends angewandt – Architektur und Techniken im Fallbeispiel" [Link](https://www.ittage.informatik-aktuell.de/programm/2022/microfrontends-angewandt-architektur-und-techniken-im-fallbeispiel.html)
 
