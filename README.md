@@ -10,7 +10,9 @@ Topics I'm interested in: Micro Frontends, Domain Driven Design, Self-Contained 
 
 As a conference speaker, I like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organization. Have a look at my speaker profile on [Speakerinnen.org](https://speakerinnen.org/de/profiles/jennifer-pelz) (German).
 
-- 23.03.2023: Dev & Donuts "Microfrontends angewandt" with Live Coding [Link (Eventbrite)](https://www.eventbrite.de/e/dev-donuts-die-rewrite-falle-und-angewandte-microfrontends-tickets-476358259377)
+- 08.11.2023: Digitale Leute Summit [Link](https://www.digitale-leute.de/summit/23/speakers/#start)
+
+- Dev & Donuts 03/2023: "Microfrontends angewandt" with Live Coding [Link](https://yasoon.de/dev-donuts/)
 
 - IT-Tage 2022 "Microfrontends angewandt – Architektur und Techniken im Fallbeispiel" [Link](https://www.ittage.informatik-aktuell.de/programm/2022/microfrontends-angewandt-architektur-und-techniken-im-fallbeispiel.html)
 
