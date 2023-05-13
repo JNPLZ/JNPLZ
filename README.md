@@ -23,7 +23,8 @@ As a conference speaker, I like to talk about software development, micro fronte
 ## ✍️ Writer
 
 I write articles about software development and architecture in big projects and the impact of organizational structures.
-- t2informatik: Chancen & Grenzen der Selbstorganisation _In Progress_
+- t2informatik: Opportunities and limits of self-organisation (English) [Link](https://t2informatik.de/en/blog/opportunities-limits-self-organisation)
+- t2informatik: Chancen & Grenzen der Selbstorganisation (German) [Link]()
 - t2informatik: Micro Frontends - Concept and Implementation (English) [Link](https://t2informatik.de/en/blog/microfrontends-concept-and-implementation/)
 - t2informatik: Microfrontends - Konzept und Implementierung (German) [Link](https://t2informatik.de/blog/softwareentwicklung/microfrontends-konzept-und-implementierung/)
 - Host Europe: Microfrontends - Konzept, Umsetzung und Anwendung in größeren IT-Projekten (German) [Link](https://www.hosteurope.de/blog/microfrontends-konzept-umsetzung-und-anwendung-in-groesseren-it-projekten/)
@@ -41,7 +42,6 @@ With a similar game mode as the wonderful 'Wordle' or 'Globle', I made a geo gue
 
 You can reach me via
 - eMail: jennifer.pelz at gmx.de 
-- Mastodon: [@jpe@mastodontech.de](https://mastodontech.de/@jpe)
 - Speakerinnen.org [Profile](https://speakerinnen.org/de/profiles/jennifer-pelz)
-- LinkedIn [Profile](https://www.linkedin.com/in/jennifer-pelz-1701bb5b/)
+- LinkedIn [Profile](https://www.linkedin.com/in/jennifer-pelz)
 - Xing [Profile](https://www.xing.com/profile/Jennifer_Pelz/cv)
