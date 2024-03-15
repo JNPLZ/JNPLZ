@@ -1,6 +1,6 @@
 # Hi, there! 
 
-My name is Jennifer Pelz, I'm a senior software developer and software architect based in Karlsruhe, Germany. I love the frontend, the cloud, clean code and software architecture in general. I work in a self organized and hierarchy-free company.
+My name is Jennifer Pelz, I'm a freelance senior software developer, software architect, and technical product lead. I love the frontend, the cloud, clean code and software architecture in general.
 
 I'm a Certified Professional for Software Architecture (Advanced Level), certified by the International Software Architecture Qualification Board ([iSAQB®](https://www.isaqb.org/)).
 
@@ -9,8 +9,6 @@ Topics I'm interested in: Micro Frontends, Domain Driven Design, Self-Contained 
 ## 🗣 Speaker
 
 As a conference speaker, I like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organization. Have a look at my speaker profile on [Speakerinnen.org](https://speakerinnen.org/de/profiles/jennifer-pelz) (German).
-
-- 08.11.2023: Digitale Leute Summit [Link](https://www.digitale-leute.de/summit/23/speakers/#start)
 
 - Dev & Donuts 03/2023: "Microfrontends angewandt" with Live Coding [Link](https://yasoon.de/dev-donuts/)
 
