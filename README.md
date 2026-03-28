@@ -1,45 +1,64 @@
-# Hi, there! 
+# Hi, there!
 
-My name is Jennifer Pelz, I'm a freelance senior software developer, software architect, and technical product lead. I love the frontend, the cloud, clean code and software architecture in general.
+I'm Jennifer Pelz — a freelance full-stack senior software developer, solutions architect, and technical product lead.
+
+I build software with a strong focus on frontend engineering, but my role usually goes far beyond implementation. I work across requirements engineering, workflow design, UX, architecture, and delivery — connecting business needs with solid technical solutions.
+
+My strength is combining big-picture thinking with deep technical execution. I can move from ambiguity to structure, from process to concept, and from concept to working software.
+
+I work AI-first and integrate AI tools into my daily engineering workflow — for analysis, prototyping, implementation, refinement, and quality. I use them to move faster, think better, and improve the software I build.
 
 I'm a Certified Professional for Software Architecture (Advanced Level), certified by the International Software Architecture Qualification Board ([iSAQB®](https://www.isaqb.org/)).
 
-Topics I'm interested in: Micro Frontends, Domain Driven Design, Self-Contained Systems, architectural patterns, self organization in work environments, and many more.
+## Focus areas
 
-## 🗣 Speaker
+- AI-assisted software development
+- Solution architecture
+- Requirements engineering
+- Workflow and process design
+- Frontend development
+- Frontend architecture
+- Rapid prototyping
+- UX-oriented implementation
+- Technical product thinking
+- Sustainable software design
 
-As a conference speaker, I like to talk about software development, micro frontends, distributed systems, software achitecture, agile transformation, and self organization. Have a look at my speaker profile on [Speakerinnen.org](https://speakerinnen.org/de/profiles/jennifer-pelz) (German).
+## Recent project environments
 
-- Dev & Donuts 03/2023: "Microfrontends angewandt" with Live Coding [Link](https://yasoon.de/dev-donuts/)
+- **Renewable energy:** digitizing business-critical workflows and designing software that creates additional value from operational data
+- **AI products for customer service:** building software that supports automation and process efficiency
+- **International e-commerce:** improving and extending multinational shop systems with a focus on architecture, maintainability, and delivery
 
-- IT-Tage 2022 "Microfrontends angewandt – Architektur und Techniken im Fallbeispiel" [Link](https://www.ittage.informatik-aktuell.de/programm/2022/microfrontends-angewandt-architektur-und-techniken-im-fallbeispiel.html)
+## Tech & topics I care about
 
-- Agile-Tage 2022: "Chancen & Grenzen der Selbstorganisation" [Link](https://www.ittage.informatik-aktuell.de/programm/365-2022/chancen-grenzen-der-selbstorganisation.html)
-- IT-Tage 2021: "Microfrontends – Konzept, Umsetzung und Anwendung in großen IT-Projekten" [Link](https://www.ittage.informatik-aktuell.de/programm/2021/microfrontends-konzept-umsetzung-und-anwendung-in-grossen-it-projekten.html)
-- Transform To Agile 2021: "Agile Transformation – einschleichen lassen oder anordnen?"
+TypeScript, (P)React, frontend architecture, software architecture, workflow-centric software design, clean code, cloud-based systems, rapid delivery, and pragmatic AI usage in software development.
 
-## ✍️ Writer
+I’m especially interested in topics like Micro Frontends, Domain-Driven Design, Self-Contained Systems, architectural patterns, and the relationship between software design, product thinking, and organizational structure.
 
-I write articles about software development and architecture in big projects and the impact of organizational structures.
+## Side projects
+
+I also build small games and experimental software projects in my spare time — increasingly with AI support as part of the development workflow. Some examples can be found in my repositories.
+
+### Capitle
+
+A geography guessing game inspired by Wordle- and Globle-like mechanics, built with TypeScript and React and deployed via GitHub Pages.
+
+- Live: [capitle.de](https://www.capitle.de)
+- Repository: [JNPLZ/capitle](https://github.com/JNPLZ/capitle)
+
+## Writing
+
+I write (and speak) about software architecture, software development in complex systems, and the interaction between technical and organizational design.
+
+Selected articles:
 - t2informatik: Opportunities and limits of self-organisation (English) [Link](https://t2informatik.de/en/blog/opportunities-limits-self-organisation)
-- t2informatik: Chancen & Grenzen der Selbstorganisation (German) [Link]()
+- t2informatik: Chancen & Grenzen der Selbstorganisation (German)
 - t2informatik: Micro Frontends - Concept and Implementation (English) [Link](https://t2informatik.de/en/blog/microfrontends-concept-and-implementation/)
 - t2informatik: Microfrontends - Konzept und Implementierung (German) [Link](https://t2informatik.de/blog/softwareentwicklung/microfrontends-konzept-und-implementierung/)
 - Host Europe: Microfrontends - Konzept, Umsetzung und Anwendung in größeren IT-Projekten (German) [Link](https://www.hosteurope.de/blog/microfrontends-konzept-umsetzung-und-anwendung-in-groesseren-it-projekten/)
-- Informatik Aktuell: "Die agile Keimzelle: Agilität anordnen oder einschleichen lassen?"
-(German) [Link](https://www.informatik-aktuell.de/management-und-recht/projektmanagement/die-agile-keimzelle-agilitaet-nordnen-oder-einschleichen-lassen.html)
-
-## 👾 Software Developer
-
-['Capitle' - geo guessing game](https://www.capitle.de)
-
-With a similar game mode as the wonderful 'Wordle' or 'Globle', I made a geo guessing game '[Capitle](https://www.capitle.de)', in which you can challenge your geography knowledge. It's written in Typescript with React and deployed as a GitHub Page.
-[Repository](https://github.com/JNPLZ/capitle)
+- Informatik Aktuell: "Die agile Keimzelle: Agilität anordnen oder einschleichen lassen?" (German) [Link](https://www.informatik-aktuell.de/management-und-recht/projektmanagement/die-agile-keimzelle-agilitaet-nordnen-oder-einschleichen-lassen.html)
 
 # 📫 Contact
 
-You can reach me via
-- eMail: jennifer.pelz at gmx.de 
-- Speakerinnen.org [Profile](https://speakerinnen.org/de/profiles/jennifer-pelz)
-- LinkedIn [Profile](https://www.linkedin.com/in/jennifer-pelz)
-- Xing [Profile](https://www.xing.com/profile/Jennifer_Pelz/cv)
+- Email: jennifer.pelz at gmx.de
+- [LinkedIn](https://www.linkedin.com/in/jennifer-pelz)
